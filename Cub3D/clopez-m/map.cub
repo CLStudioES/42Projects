@@ -1,0 +1,15 @@
+R 2500 1800
+NO ./src/no.xpm
+SO ./src/so.xpm
+WE ./src/we.xpm
+EA ./src/ea.xpm
+
+S ./path_to_the_sprite_texture
+F 220,100,0
+C 225,30,0
+
+111111
+100101
+102001
+1100N1
+111111
